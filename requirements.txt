@@ -1,4 +1,4 @@
-Django==1.6.5
+Django==1.11.28
 Pillow==2.4.0
 pip-tools==0.3.4
 python-magic==0.4.6
